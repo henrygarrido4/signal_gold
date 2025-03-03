@@ -1,0 +1,34 @@
+{
+    "projectWidgets1": [
+        {
+            "id": 1,
+            "time": "Updated 3hrs ago",
+            "img": "/images/brands/slack.png",
+            "color": "info",
+            "label": "Brand Logo Design",
+            "caption": "Create a Brand logo design for a new client",
+            "number": "18/42",
+            "progressBar": "34%",
+            "status": "Inprogress",
+            "statusClass": "warning",
+            "deadline": "10 Jul, 2023",
+            "subItem": [
+                {
+                    "id": 1,
+                    "imgNumber": "D",
+                    "bgColor": "danger"
+                },
+                {
+                    "id": 2,
+                    "imgTeam": "/images/users/avatar-5.jpg"
+                },
+                {
+                    "id": 3,
+                    "imgNumber": "+"
+                }
+            ]
+        }
+    ],
+    "projectWidgets2": [],
+    "projectWidgets3": []
+} 
